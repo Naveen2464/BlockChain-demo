@@ -137,14 +137,3 @@ def mine_block(self, difficulty):
 ```
 
 ---
-
-## 🎓 Key Viva & Interview Concepts
-
-1. **What is the Mempool?**  
-   The Memory Pool is the temporary staging area where broadcasted transactions wait before a miner packages them into a block.
-2. **What is a Coinbase Subsidy?**  
-   The block reward minted by protocol rules to incentivize miners to dedicate computing power to secure the network.
-3. **What is Nakamoto Consensus?**  
-   The decentralized consensus mechanism where independent nodes always recognize the longest valid Proof-of-Work chain as the true state of the ledger.
-4. **What is the Avalanche Effect in Blockchain?**  
-   Changing even a single character in a past block alters its SHA-256 hash completely, which invalidates the block's hash and breaks the cryptographic link to all subsequent blocks.
